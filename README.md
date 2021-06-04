@@ -11,6 +11,7 @@ This bot is meant to be used in small, closed groups. So, once deployed, it only
 ## Heroku
 
 Follow the heroku [guide](heroku_guide.md) for deployment in heroku
+<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Warning
 
